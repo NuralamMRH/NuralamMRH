@@ -1,5 +1,69 @@
 <h1 align="center">Hi 👋, I'm Md Nuralam</h1>
+
+
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
+
+<p>
+
+I am a highly motivated and detail-oriented **Back-End Developer** with **5 years of professional experience** building secure, scalable, and high-performance web applications. My primary focus is on **API development, backend architecture, authentication & authorization, and application security**, with a strong emphasis on clean code, maintainability, and best practices.
+
+My core expertise is centered around **C# and the .NET ecosystem**, where I have extensive hands-on experience with **ASP.NET Core**, **Entity Framework Core**, **ASP.NET Identity**, and **SQL-based relational databases**. I have designed and implemented RESTful APIs, managed complex data models, enforced role-based access control, and optimized backend services for performance and reliability in production environments.
+
+In addition to backend development, I possess solid **full-stack capabilities** and regularly work with modern frontend technologies such as **React**, **Blazor**, **Bootstrap**, and **Tailwind CSS**. This allows me to collaborate effectively with frontend teams, build responsive user interfaces, and ensure seamless integration between client-side applications and backend services.
+
+---
+
+### Learning & Growth
+
+🌱 **Currently Learning**
+I am actively deepening my knowledge of **advanced Blazor techniques** and modern **React patterns** to further enhance user experience, component architecture, and frontend performance while maintaining strong backend foundations.
+
+---
+
+### Current Focus
+
+🔭 **Current Project**
+I am developing my **personal portfolio website**, designed to showcase my expertise across both **Back-End and Front-End development**. The project emphasizes clean architecture, secure APIs, modern UI design, and real-world implementation of best practices.
+
+---
+
+### Collaboration & Interests
+
+👯 **Looking to Collaborate On**
+I am interested in collaborating on **innovative and challenging web projects** that require:
+
+* Well-architected and scalable APIs
+* Strong authentication, authorization, and security practices
+* High-performance backend systems
+* Polished and user-friendly UI/UX
+
+I enjoy working with teams that value code quality, documentation, and long-term maintainability.
+
+---
+
+### Expertise & Discussions
+
+💬 **Ask Me About**
+
+* Backend architecture and system design
+* REST API development and security
+* Design patterns and clean architecture
+* Database optimization and performance tuning
+* Building scalable and maintainable web applications
+
+---
+
+### Personal Note
+
+⚡ **Fun Fact**
+I believe discipline is key to success—both in technology and in life. I balance my passion for software development with a strong commitment to fitness, applying the same consistency and problem-solving mindset in the gym as I do in writing clean, efficient code.
+
+---
+
+
+
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuralammrh&label=Profile%20views&color=0e75b6&style=flat" alt="nuralammrh" /> </p>
 
